@@ -1,6 +1,6 @@
 # Podcast Project
 
-Welcome to the Podcast Project! This platform allows users to create, discover, and play podcasts with unique features like AI-generated audio from transcripts and customizable thumbnails.
+Developed an innovative podcast platform with AI-generated transcripts, customizable thumbnails (via AI or manual upload). Users can easily discover and play podcasts. Utilized Convex for scalable and efficient database management. Integrated Clerk for secure, seamless user authentication, providing a reliable and user-friendly login experience.
 
 ## Key Features
 
